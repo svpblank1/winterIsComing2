@@ -1,17 +1,20 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Winter',de,Winter,#4287f5,#315fa8,1,0.5614125
-'Herbst',de,Herbst,#9e3215,#9e3215,1,0.555863463125
-'Schnee',de,Winter,#4287f5,#638ed4,1,0.5441805312499999
-'Hochwasser',de,Winter,#4287f5,#022f78,1,0.5125670175
-'Weinlese',de,Herbst,#9e3215,#b55035,1,0.4986510416666665
-'Frühling',de,Frühling,#679e2c,#679e2c,1,0.4794875
-'Sommer',de,Sommer,#a89216,#a89216,1,0.4786575
-'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.4705857873661989
-'Dürre',de,Sommer,#a89216,#bfba22,1,0.4703845937499998
-'Aussaat',de,Frühling,#679e2c,#7db344,1,0.4617094631672111
-'Ernte',de,Herbst,#9e3215,#d64118,1,0.4539151550156249
-'Gewitter',de,Sommer,#a89216,#c4b03b,2,0.4228879266406248
-'Glatteis',de,Winter,#4287f5,#3b4a63,2,0.37773410268877505
-'Blüte',de,Frühling,#679e2c,#61b00c,1,0.3705460201285585
-'Spätfrost',de,Frühling,#679e2c,#477515,1,0.2844000461382296
-'Laubfall',de,Herbst,#9e3215,#802d16,1,0.2615824620417953
+'Winter',de,Zeit,#f1fc17,#f1fc17,1,1
+'Kälte',de,Temperatur,#ff8800,#ff8800,1,0.555863463125
+'Heizung',de,Energie,#ff00ea,#ff00ea,1,0.5441805312499999
+'Heizen',de,Energie,#ff00ea,#ff00ea,1,0.5125670175
+'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.4986510416666665
+'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.4794875
+'Frieren',de,Mensch,#ff0000,#ff0000,1,0.4786575
+'Frost',de,Witterung,#64fafa,#64fafa,1,0.4705857873661989
+'Frische',de,Witterung,#64fafa,#64fafa,1,0.4703845937499998
+'Reif',de,Witterung,#64fafa,#64fafa,1,0.4617094631672111
+'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.4539151550156249
+'Eis',de,Wasser,#1a0ce8,#1a0ce8,2,0.4228879266406248
+'Schnee',de,Wasser,#1a0ce8,#1a0ce8,2,0.37773410268877505
+'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.3705460201285585
+'Gas',de,Energie,#ff00ea,#ff00ea,1,0.2844000461382296
+'Handschuhe',de,Mensch,#ff0000,#ff0000,1,0.2615824620417953
+'Nässe',de,Wasser,#1a0ce8,#1a0ce8,1,1
+'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,1,1
+'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,1
