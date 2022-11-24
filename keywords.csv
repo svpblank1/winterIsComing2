@@ -1,20 +1,20 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Winter',de,Zeit,#f1fc17,#f1fc17,1,1.0
-'Eis',de,Wasser,#1a0ce8,#1a0ce8,2,1.0
-'Heizen',de,Energie,#ff00ea,#ff00ea,1,1.0
-'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,1.0
-'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,1.0
-'Frieren',de,Mensch,#ff0000,#ff0000,1,1.0
-'Frost',de,Witterung,#64fafa,#64fafa,1,1.0
 'Frische',de,Witterung,#64fafa,#64fafa,1,1.0
-'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,1.0
-'Reif',de,Witterung,#64fafa,#64fafa,1,1.0
-'Schnee',de,Wasser,#1a0ce8,#1a0ce8,2,1.0
-'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,1.0
-'Handschuhe',de,Mensch,#ff0000,#ff0000,1,1.0
-'Nässe',de,Wasser,#1a0ce8,#1a0ce8,1,1.0
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,1,1.0
+'Nässe',de,Wasser,#1a0ce8,#1a0ce8,1,1.0
+'Handschuhe',de,Mensch,#ff0000,#ff0000,1,1.0
+'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,1.0
+'Schnee',de,Wasser,#1a0ce8,#1a0ce8,2,1.0
+'Eis',de,Wasser,#1a0ce8,#1a0ce8,2,1.0
+'Reif',de,Witterung,#64fafa,#64fafa,1,1.0
+'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,1.0
+'Frost',de,Witterung,#64fafa,#64fafa,1,1.0
+'Frieren',de,Mensch,#ff0000,#ff0000,1,1.0
+'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,1.0
+'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,1.0
+'Heizen',de,Energie,#ff00ea,#ff00ea,1,1.0
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.9686529186363636
+'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.9414050613636363
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.9413285763636364
 'Kälte',de,Temperatur,#ff8800,#ff8800,2,0.9185963086363635
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,0.85
