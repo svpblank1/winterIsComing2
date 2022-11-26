@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.8073471991818181
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.7859841838181818
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.7729127385921052
-'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.7599255549999999
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.7569276150948275
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.7393929889772728
 'Heizen',de,Energie,#ff00ea,#ff00ea,4,0.7285551642215908
+'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.6489370217499999
 'Frische',de,Witterung,#64fafa,#64fafa,2,0.6438873563999999
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,0.6141249999999999
