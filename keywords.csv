@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.7569276150948275
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.7393929889772728
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.7354629462499999
-'Heizen',de,Energie,#ff00ea,#ff00ea,4,0.7285551642215908
+'Heizen',de,Energie,#ff00ea,#ff00ea,1,0.7285551642215908
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.7106607177863636
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.6964199868943182
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.6489370217499999
