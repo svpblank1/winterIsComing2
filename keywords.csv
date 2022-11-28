@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#ff00ea,#ff00ea,1,0.8783715508409091
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,2,0.8776851477272727
-'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.8174548699306817
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.8141586677500001
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.8073471991818181
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,4,0.788203959644318
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.7859841838181818
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.7729127385921052
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.7569276150948275
+'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.7497978294410794
 'Kälte',de,Temperatur,#ff8800,#ff8800,2,0.7460460896715908
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.7381305882215909
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.7354629462499999
