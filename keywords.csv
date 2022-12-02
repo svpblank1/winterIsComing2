@@ -12,10 +12,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.6964199868943182
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,2,0.6855761878032893
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.668829327175
-'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.6573937293124998
 'Frische',de,Witterung,#64fafa,#64fafa,2,0.6438873563999999
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.6199679728769887
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,2,0.6159083726766478
+'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.5878055131509189
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.5857509654491163
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.5050510510295922
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,0.3205770882812498
