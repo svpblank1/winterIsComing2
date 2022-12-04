@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.7859841838181818
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.7593814074863635
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.743072202608491
-'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.7381305882215909
+'Winter',de,Zeit,#f1fc17,#f1fc17,2,0.7381305882215909
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.7340303097885794
 'Heizen',de,Energie,#ff00ea,#ff00ea,1,0.7285551642215908
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.7123927868238635
