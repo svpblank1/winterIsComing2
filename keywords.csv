@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren',de,Mensch,#ff0000,#ff0000,3,0.7730420762454545
-'Heizen',de,Energie,#ff00ea,#ff00ea,1,0.7285551642215908
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.7123927868238635
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.7106607177863636
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.7049747809088636
@@ -8,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.7016186210475652
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.696837409570372
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.6964199868943182
+'Heizen',de,Energie,#ff00ea,#ff00ea,2,0.6878730132247158
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,2,0.6855761878032893
 'Winter',de,Zeit,#f1fc17,#f1fc17,2,0.6460896136247158
 'Frische',de,Witterung,#64fafa,#64fafa,2,0.6438873563999999
