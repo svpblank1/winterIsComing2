@@ -8,10 +8,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.7016186210475652
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.696837409570372
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.6964199868943182
-'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.6891038012208521
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,2,0.6855761878032893
 'Winter',de,Zeit,#f1fc17,#f1fc17,2,0.6460896136247158
 'Frische',de,Witterung,#64fafa,#64fafa,2,0.6438873563999999
+'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.6270662524013606
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.6199679728769887
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,2,0.6159083726766478
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.5857509654491163
