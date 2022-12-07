@@ -12,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.6332189265275567
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.6270662524013606
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.6199679728769887
-'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.6148369381387869
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.6058869424358849
+'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.544862612417969
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.5392024519953852
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.5190016228449477
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.4388509562322962
