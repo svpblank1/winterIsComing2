@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Frieren',de,Mensch,#ff0000,#ff0000,3,0.7730420762454545
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.7106607177863636
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.696837409570372
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.6964199868943182
 'Heizen',de,Energie,#ff00ea,#ff00ea,2,0.6878730132247158
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,2,0.6855761878032893
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.667734269975544
+'Frieren',de,Mensch,#ff0000,#ff0000,3,0.6665867393540909
 'Winter',de,Zeit,#f1fc17,#f1fc17,2,0.6460896136247158
 'Frische',de,Witterung,#64fafa,#64fafa,2,0.6438873563999999
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.6405474651361703
