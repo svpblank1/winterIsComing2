@@ -16,6 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.5264849118300577
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.4726499685509161
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.4388509562322962
-'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.2978758262572855
+'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.25349448231869265
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.240585590507692
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,0.167343243689614
