@@ -8,10 +8,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.617859045217372
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.6134967903883033
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,2,0.6104175273600686
-'Frost',de,Witterung,#64fafa,#64fafa,3,0.6085118944566539
 'Frieren',de,Mensch,#ff0000,#ff0000,3,0.6079180948146137
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.6058869424358849
 'Frische',de,Witterung,#64fafa,#64fafa,2,0.5840835797581818
+'Frost',de,Witterung,#64fafa,#64fafa,3,0.5812821243790649
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.5606990972684293
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.544862612417969
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.4726499685509161
