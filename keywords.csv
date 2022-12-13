@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.5606990972684293
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.544862612417969
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.5264849118300577
-'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.4388509562322962
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.4209190673005367
+'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.38877368779745175
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.2534944823186926
-'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.22624812693153817
+'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.2262481269315381
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,0.167343243689614
