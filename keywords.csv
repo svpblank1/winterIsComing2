@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.6241815161328977
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.6199679728769887
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.617859045217372
-'Winterkleidung',de,Mensch,#ff0000,#ff0000,2,0.6104175273600686
 'Frieren',de,Mensch,#ff0000,#ff0000,3,0.6079180948146137
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.6058869424358849
+'Winterkleidung',de,Mensch,#ff0000,#ff0000,3,0.5944554532560583
 'Frische',de,Witterung,#64fafa,#64fafa,2,0.5840835797581818
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.5812821243790649
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.5795579139120596
