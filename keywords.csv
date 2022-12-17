@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.5494371777264597
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.5332499346126364
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.5317217291916373
-'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.5302328484347663
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.5264849118300577
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.5133797544963467
+'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.45574977116955134
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.3836817922054562
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.289054460905881
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.2534944823186926
