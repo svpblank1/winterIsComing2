@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.5133797544963467
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.4557497711695513
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.3836817922054562
-'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.289054460905881
+'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.2606109974842845
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.2534944823186926
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.1923113428918073
-'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,0.08735421910125148
+'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,0.0873542191012514
