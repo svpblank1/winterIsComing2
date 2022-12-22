@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.4772027501384334
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.4626790180741902
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.4557497711695513
-'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.3836817922054562
+'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.336875040216743
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.2534944823186926
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.2247345045617058
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.1936771454235534
