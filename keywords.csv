@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.4759402469300944
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.4626790180741902
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.4557497711695513
-'Frieren',de,Mensch,#ff0000,#ff0000,3,0.45130239818569584
+'Frieren',de,Mensch,#ff0000,#ff0000,3,0.4513023981856958
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.336875040216743
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.2534944823186926
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.2247345045617058
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.1936771454235534
-'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,0.0742510862360636
+'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,0.06311342330065406
