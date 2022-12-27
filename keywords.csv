@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.4503660461874647
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.4468101550424274
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.336875040216743
-'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.2534944823186926
+'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.2154703099708887
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.1959748238774499
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.1936771454235534
-'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,0.045599448334722514
+'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,0.0455994483347225
