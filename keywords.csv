@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.442421685181867
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.4302847895196796
 'Frieren',de,Mensch,#ff0000,#ff0000,3,0.3931068730032959
-'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.3467955379513135
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,3,0.3394945941842315
+'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.29974446225861645
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.1936771454235534
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.1665790952958324
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.155954826703967
-'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,0.02800376120856136
+'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,0.0280037612085613
