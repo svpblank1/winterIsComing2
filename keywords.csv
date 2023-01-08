@@ -11,11 +11,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.3971648569068363
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.3961596739613522
 'Frieren',de,Mensch,#ff0000,#ff0000,3,0.3931068730032959
-'Winterkleidung',de,Mensch,#ff0000,#ff0000,3,0.346399743161018
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.2997444622586164
+'Winterkleidung',de,Mensch,#ff0000,#ff0000,3,0.2986402016868653
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.2885711400565967
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.2803885744530237
-'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.15180445962869424
+'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.1518044596286942
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.1284777597798103
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.0697543354355356
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,0.0171978098522076
