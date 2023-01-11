@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.3711213512902456
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.3616429964904205
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.3573264599169593
-'Frische',de,Witterung,#64fafa,#64fafa,3,0.3562656905082397
+'Frische',de,Witterung,#64fafa,#64fafa,3,0.3077833819320037
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.2803885744530237
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.2642962174652785
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,2,0.2538446064338355
