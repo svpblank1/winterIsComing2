@@ -9,13 +9,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.3167308995630039
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.3133009304748699
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.2847554928240213
+'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.28416360439094124
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.2803885744530237
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.2773170610572024
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.2690447189183345
-'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.2642962174652785
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.2157683654687602
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.210278712940891
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.1100621760817315
-'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.057253408026826005
+'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.057253408026826
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.0432237948368482
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,0.0171978098522076
