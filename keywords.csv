@@ -8,9 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.3182774489655551
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.3167308995630039
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.3133009304748699
+'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.28613576235316746
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.2841636043909412
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.2803885744530237
-'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.2773170610572024
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.2469998939004181
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.2336408160805843
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.2157683654687602
