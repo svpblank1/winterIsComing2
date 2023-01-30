@@ -16,6 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.1999041776157792
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1818323852318584
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.172008499542362
-'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.06383458130889252
+'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.05425972411255862
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.0368902406113209
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,0.0124254176182199
