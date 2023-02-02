@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.2585349047840017
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.2525317509889976
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.247753350107766
-'Frieren',de,Mensch,#ff0000,#ff0000,3,0.2373246950990551
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.2359082485501634
+'Frieren',de,Mensch,#ff0000,#ff0000,3,0.22940549856146955
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,2,0.2276881160330615
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.2105650887775351
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1818323852318584
