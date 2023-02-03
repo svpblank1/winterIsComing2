@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.2594683146284048
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.2585349047840017
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.247753350107766
-'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.23779148652246615
-'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.2359082485501634
+'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.24184419763127524
+'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.2377914865224661
 'Frieren',de,Mensch,#ff0000,#ff0000,3,0.2294054985614695
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,2,0.2276881160330615
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.2105650887775351
