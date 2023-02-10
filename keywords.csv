@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.2653070045108457
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.2610511630281534
-'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.2605259229865839
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.2585349047840017
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.2548255414732885
+'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.249132797265869
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.247753350107766
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.2471079422990029
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.2410391163927161
