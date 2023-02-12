@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.2337299357734192
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.2333318564501613
 'Frieren',de,Mensch,#ff0000,#ff0000,3,0.2294054985614695
-'Winterkleidung',de,Mensch,#ff0000,#ff0000,2,0.2276881160330615
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.2167211876759886
+'Winterkleidung',de,Mensch,#ff0000,#ff0000,3,0.21666791680992045
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.2040204156333186
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.1763326830546731
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1686024115379887
