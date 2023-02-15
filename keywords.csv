@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.2548255414732885
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.2505846407690867
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.2462726141591536
-'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.2377914865224661
+'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.238898820362278
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.2359715488872042
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.2359365876648394
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.2309008226801335
