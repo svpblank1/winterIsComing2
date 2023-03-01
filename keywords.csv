@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.2103141983690225
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.2100886710995781
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.2087464286901058
-'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.2038641085920287
 'Frieren',de,Mensch,#ff0000,#ff0000,3,0.2001336684379344
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.1982611636154994
+'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.19642709548504256
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1912959321038188
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.1817761432117457
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.1795849479614235
