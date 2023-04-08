@@ -16,6 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.1323526488841072
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1197436223775525
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.0670047642046834
-'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0128505057915975
+'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.012123049922857876
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,0.0005665921887191
-'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.00045837664563199993
+'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.0004583766456319
