@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.1687178974714788
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.1684325367206326
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1618825632169735
-'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.1440089742223143
+'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.14260494191249656
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1197436223775525
-'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.11429993155149111
+'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.1142999315514911
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.0670047642046834
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0121230499228578
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,0.0004816033604112
