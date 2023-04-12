@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.2191027059679064
+'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.22304134689090224
 'Frieren',de,Mensch,#ff0000,#ff0000,3,0.2001336684379344
-'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.19923031466054272
+'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.1992303146605427
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1946167704764051
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1941766018313565
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.1933927718798451
