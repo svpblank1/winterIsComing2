@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Gas',de,Energie,#ff00ea,#ff00ea,3,0.220037146556653
 'Frieren',de,Mensch,#ff0000,#ff0000,3,0.2001336684379344
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1946167704764051
-'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.19457162485726684
-'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1941766018313565
+'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.1945716248572668
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.1933927718798451
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.1924852956432794
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,2,0.1881854590843007
