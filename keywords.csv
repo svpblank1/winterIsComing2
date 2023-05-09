@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.1564140259352268
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,2,0.1535326468474981
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.1524301875417206
-'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1516427378253365
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.1483702028507569
+'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.13839299669699057
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1290354539095032
 'Frieren',de,Mensch,#ff0000,#ff0000,3,0.1288307879554766
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.122043302728978
