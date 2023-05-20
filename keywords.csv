@@ -4,11 +4,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.1760297161651861
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.1706242107969932
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.1649452044869169
-'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1623585805817192
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.1564140259352268
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.1538009451504161
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,2,0.1535326468474981
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.1524301875417206
+'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1520785225853704
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1412565245632523
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1383929966969905
 'Frieren',de,Mensch,#ff0000,#ff0000,3,0.1288307879554766
