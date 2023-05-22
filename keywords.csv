@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1520785225853704
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1412565245632523
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1383929966969905
-'Frieren',de,Mensch,#ff0000,#ff0000,3,0.1288307879554766
+'Frieren',de,Mensch,#ff0000,#ff0000,3,0.1212819047621551
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1086906323196312
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.1055673240317787
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.0810345479498671
