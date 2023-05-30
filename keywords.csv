@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.1356900883778536
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1195126121691153
 'Frieren',de,Mensch,#ff0000,#ff0000,3,0.1066909690478318
-'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.1055673240317787
+'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.09003225542701189
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.0810345479498671
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0238289815914957
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0196885428055054
