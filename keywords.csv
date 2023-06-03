@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1432034490605826
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.1356900883778536
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1195126121691153
-'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1136943666590301
 'Frieren',de,Mensch,#ff0000,#ff0000,3,0.1066909690478318
+'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.10159157666017558
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0900322554270118
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.0779146270604456
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0238289815914957
