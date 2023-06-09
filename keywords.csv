@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1520785225853704
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.1315769490547684
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.1248412846666301
-'Frieren',de,Mensch,#ff0000,#ff0000,3,0.1066909690478318
+'Frieren',de,Mensch,#ff0000,#ff0000,3,0.10472944778156612
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1015915766601755
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.0779146270604456
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.07697746211296
