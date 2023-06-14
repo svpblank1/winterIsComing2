@@ -8,14 +8,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.1670260239875415
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,2,0.1610284848203733
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1520785225853704
-'Reif',de,Witterung,#64fafa,#64fafa,3,0.13772005869040332
+'Reif',de,Witterung,#64fafa,#64fafa,3,0.1377200586904033
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.1315769490547684
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.1248412846666301
 'Frieren',de,Mensch,#ff0000,#ff0000,3,0.1047294477815661
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1015915766601755
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.0779146270604456
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.07697746211296
-'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0269694443073772
+'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.024874222661270616
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0142791951254308
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.0018022943761106
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,3.039563674854856e-05
