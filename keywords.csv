@@ -16,6 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.0637022547070519
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0364590189177563
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0221240658389797
-'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.015053564373385604
-'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.0002179072910942
+'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0150535643733856
+'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.00018522119743007
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,2.6551871122547666e-06
