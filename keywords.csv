@@ -3,15 +3,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1892534691093253
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.1816976767523049
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.1678570835472844
+'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.15498503816669779
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.15372089300121
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.1515250695170184
-'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1444221716399653
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1213870188864256
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.1202066010255419
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.1163393678827641
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,2,0.0907965549945854
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.0889225835006778
-'Handschuhe',de,Mensch,#ff0000,#ff0000,2,0.07747002375966053
+'Handschuhe',de,Mensch,#ff0000,#ff0000,2,0.0774700237596605
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.0661932970258449
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.063030588227361
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.0178604729618115
