@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Handschuhe',de,Mensch,#ff0000,#ff0000,2,0.068995190529991
 'Frieren',de,Mensch,#ff0000,#ff0000,1,0.0535764499932568
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0151817770175397
-'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0124181274631691
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0122739800648414
+'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.011905543343693734
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.0006658131375588
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,5.227383811383206e-07
