@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.2228205350682927
-'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.1730194777367882
+'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.17477247880354269
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1606246160574082
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.153163243413766
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.1436806812593649
@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.0764253613511728
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.0681424314959468
 'Frieren',de,Mensch,#ff0000,#ff0000,1,0.0635402824942682
-'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.021859009018445806
+'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0218590090184458
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0185052182618101
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0104328830551151
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.0007429202909877
