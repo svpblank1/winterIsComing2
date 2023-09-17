@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.1198214808862061
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1016783311847231
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.0987198991573943
+'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.09046185714849686
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.0779309958938578
-'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.0764253613511728
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.0674176913170093
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.0555751390266896
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0520083297884529
