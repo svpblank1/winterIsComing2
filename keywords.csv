@@ -2,12 +2,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.1851366769304186
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.1711194446008872
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.168731450293009
-'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1418384920234004
+'Gas',de,Energie,#ff00ea,#ff00ea,3,0.15735758503807215
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.1344675751693384
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.1327216471765853
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.1313798430595017
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1293214282454304
-'Frische',de,Witterung,#64fafa,#64fafa,3,0.10702996329355947
+'Frische',de,Witterung,#64fafa,#64fafa,3,0.1070299632935594
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1016783311847231
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.0987198991573943
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.0768928935762222
