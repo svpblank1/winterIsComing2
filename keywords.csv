@@ -7,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.1339954441995983
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.1328915275303012
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1194227185540703
+'Reif',de,Witterung,#64fafa,#64fafa,3,0.10501683014337826
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.1026436701159602
-'Reif',de,Witterung,#64fafa,#64fafa,3,0.1016783311847231
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.0987198991573943
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.0815952528104195
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.0758924812558215
