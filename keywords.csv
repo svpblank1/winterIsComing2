@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1830961451848836
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.1817171379420173
-'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.177329978043909
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.1719413473877269
+'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.15568535633732264
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.1477389939865372
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1407211247104089
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.1390021126120085
