@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.0869474894653557
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0706846200332585
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.0614205331493716
+'Winterkleidung',de,Mensch,#ff0000,#ff0000,2,0.04646009247168928
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.0429785312063254
-'Winterkleidung',de,Mensch,#ff0000,#ff0000,2,0.0408051264372815
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0330259315319345
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.0062015384701874
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,4.822788251525171e-10
