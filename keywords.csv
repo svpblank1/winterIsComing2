@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.33796512916579863
-'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.2909318753084882
+'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.3379651291657986
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.2687981487684937
+'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.26139222310312404
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.1669411853053265
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1575521745866434
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1516497011874582
