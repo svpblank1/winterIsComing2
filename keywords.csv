@@ -10,10 +10,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.1426598090279063
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.140789636694527
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.1403112684599008
-'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.13714211826106565
+'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1371421182610656
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.1067083599128365
+'Frische',de,Witterung,#64fafa,#64fafa,3,0.10433314756493836
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.0957256583904281
-'Frische',de,Witterung,#64fafa,#64fafa,3,0.0741312661191788
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.0703533617686027
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,2,0.0460863343107954
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.0377323665253765
