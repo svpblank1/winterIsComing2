@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.1403112684599008
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1371421182610656
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.1006896362520315
+'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.08872374477603956
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,2,0.0708951277356046
-'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.0703533617686027
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.0694393159370842
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.0377323665253765
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0184676203561137
