@@ -17,5 +17,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.0694393159370842
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,2,0.0571928675389743
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.0377323665253765
-'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0162956126886982
-'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,4.9563635482667254e-11
+'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.01670155578539347
+'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,4.956363548266725e-11
