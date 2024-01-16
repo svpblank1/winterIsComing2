@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.18828937703975235
+'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.1882893770397523
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.180885652261824
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.1750704722689847
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1712525778871816
@@ -18,4 +18,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.0688414433647518
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,2,0.0439930295469088
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0252392161092046
-'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,4.212909016026716e-11
+'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,3.5809726636227087e-11
