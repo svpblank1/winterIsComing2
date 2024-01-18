@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.1291741607358024
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.1287672327363702
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.1006896362520315
-'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.0973487470748617
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.0887237447760395
+'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.08304646501363244
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.0688414433647518
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,2,0.0641947501148724
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0252392161092046
