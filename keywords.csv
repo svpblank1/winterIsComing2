@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.21483999102078
-'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.16970845429373738
-'Frieren',de,Mensch,#ff0000,#ff0000,3,0.156956818685149
+'Frieren',de,Mensch,#ff0000,#ff0000,3,0.1838199413369221
+'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.1697084542937373
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.1562454659578993
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.1505713352993795
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.1492795567858006
