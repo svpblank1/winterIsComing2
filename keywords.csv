@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.1418430281129593
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1410053523823111
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1406512072507613
-'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.13129617769689914
+'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.1312961776968991
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.1291741607358024
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.1287672327363702
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.1149156330596335
@@ -18,4 +18,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,2,0.0558030343216316
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.0279817756541406
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.0247536636928239
-'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,1.1479777897189196e-11
+'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,9.757811212610816e-12
