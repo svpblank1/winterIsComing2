@@ -2,7 +2,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.2252296946717392
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.1818629582679305
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.1456868837310743
-'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.1455016126135888
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1431975970808619
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.1420283688981593
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.1418430281129593
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1406512072507613
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1380911737664476
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1338977386158735
+'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.13322456526700502
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.1312961776968991
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.1287672327363702
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.1149156330596335
