@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.1953358262136706
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.1827457428149857
-'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1668708426733079
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.1591859682944165
+'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.15134525581776626
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.1460197803366102
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1448543807005508
-'Gas',de,Energie,#ff00ea,#ff00ea,3,0.14377295269322046
+'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1437729526932204
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.133224565267005
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1324012264598561
 'Frieren',de,Mensch,#ff0000,#ff0000,3,0.1299970025019952
