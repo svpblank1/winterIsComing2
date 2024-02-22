@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.1267488476848093
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.1138497432894505
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.104633509512199
-'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.0987771493855851
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0896494366693654
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.084415811860039
+'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.08396078697774734
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.0469616063117908
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0314383479764433
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.0148071755769341
