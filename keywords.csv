@@ -7,13 +7,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1279731859689341
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.1250817139790636
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1227455989006845
-'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.11829907940114313
+'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.1182990794011431
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.1175384996745637
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.1019937807064114
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.0918030848470371
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.0842692512239734
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0802757494712411
-'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.0750131394614859
+'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.065411333542263
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.055163153340209
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0089967441454015
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0085069796380589
