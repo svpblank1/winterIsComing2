@@ -8,9 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1149793084275193
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.1056586548792723
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.1029304355852417
-'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.099634000668914
-'Frieren',de,Mensch,#ff0000,#ff0000,3,0.09790514090101135
+'Frieren',de,Mensch,#ff0000,#ff0000,3,0.0979051409010113
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.0952713617365934
+'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.0896443155685769
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.0870790343928933
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0731949770505549
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.0641348113319791
