@@ -18,4 +18,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0168320157385832
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.002709928582965
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,0.0001839853402894
-'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,1.0591251756207416e-14
+'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,9.002563992776303e-15
