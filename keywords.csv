@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.1858401276834452
+'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.1992899098945648
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.14261476015715
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1348137558999206
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1222617145597278
@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0798344203811719
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.0756878390509806
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.0755269896633249
-'Nässe',de,Wasser,#1a0ce8,#1a0ce8,2,0.07158253553443994
+'Nässe',de,Wasser,#1a0ce8,#1a0ce8,2,0.0715825355344399
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0580131002883009
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.0446218576842515
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0168320157385832
