@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.12357276031739045
-'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.118636662751922
+'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.1235727603173904
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.1165429363120573
+'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1148844724300428
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.1101954731847818
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.109251098758831
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1060152494891572
