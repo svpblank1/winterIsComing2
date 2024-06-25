@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.0827879798501897
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,2,0.0776955839918146
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.0647852031933335
-'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0520114052450557
+'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.054954716300402606
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.0446218576842515
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0234346659411192
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0068136187741391
