@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.1074311103083376
-'Reif',de,Witterung,#64fafa,#64fafa,3,0.1041076724501198
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.1040868645731866
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.1024670760398051
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1001680509216343
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.0996098711791463
+'Reif',de,Witterung,#64fafa,#64fafa,3,0.09799035112805637
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.0960741008308843
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.0951476418927444
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.0907701854152309
