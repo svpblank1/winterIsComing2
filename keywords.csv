@@ -1,19 +1,19 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.1074311103083376
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.104201039352599
-'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1001680509216343
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.0996098711791463
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.0979903511280563
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.0965965341792888
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.0960741008308843
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.0951476418927444
+'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.0946414778288437
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.0907701854152309
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0804571045456265
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.075339271285762
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.0680413773746524
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.0602702653283423
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.0573248798724562
-'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.05412617942887806
+'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.054126179428878
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0300213738025485
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.0164476793302829
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0029960137271311
