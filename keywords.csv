@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.075339271285762
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.0696292247510006
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.0624866257684545
-'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.05725670299518182
+'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.0572567029951818
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0261308865723412
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.0160117930062099
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0018856975240195
-'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,2.2860946887235667e-06
+'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,1.9431804854150315e-06
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,4.218817761146441e-17
