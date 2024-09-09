@@ -7,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.0989693841625453
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.0964461035411829
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.0944892402454262
-'Frost',de,Witterung,#64fafa,#64fafa,3,0.0903778237549606
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0879840804660332
+'Frost',de,Witterung,#64fafa,#64fafa,3,0.08631889973717105
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.0831911028715952
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.0777720446747141
 'Frieren',de,Mensch,#ff0000,#ff0000,3,0.0679392655928977
