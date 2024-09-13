@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.15494533469257105
+'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.154945334692571
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.1235076424619995
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1226827783853811
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1187925412212166
@@ -18,4 +18,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0143377531761375
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0011330310967931
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,1.4039479007123603e-06
-'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,7.059906486856016e-18
+'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,6.000920513827613e-18
