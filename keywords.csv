@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.18286094014527104
+'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.182860940145271
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.1301574375536881
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.1192325706856862
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1013374832428653
@@ -8,10 +8,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.095030394784157
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.0890823465381635
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.0863306080722472
-'Frieren',de,Mensch,#ff0000,#ff0000,3,0.0847256888308861
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.0831911028715952
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.0819796530100054
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.0777720446747141
+'Frieren',de,Mensch,#ff0000,#ff0000,1,0.07201725550625318
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.0626033015806056
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.0589437103231096
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0152567129259986
