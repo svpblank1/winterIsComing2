@@ -1,14 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Reif',de,Witterung,#64fafa,#64fafa,3,0.11836510802916278
+'Reif',de,Witterung,#64fafa,#64fafa,3,0.1183651080291627
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.1154010996958349
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.1122784701161666
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.108936141226295
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.0989062378449758
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0972871531821635
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.0966836577050774
+'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.09595533228072681
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.095030394784157
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.0831911028715952
-'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.0819796530100054
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.0806767745574389
 'Frieren',de,Mensch,#ff0000,#ff0000,1,0.0720172555062531
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.0677568979735069
