@@ -9,13 +9,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.0948330796574425
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.0871331340493157
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.0831911028715952
+'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.08047725256940526
 'Frieren',de,Mensch,#ff0000,#ff0000,1,0.0720172555062531
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,2,0.0702285499012433
-'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.0674580698677495
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.0626033015806056
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.0589437103231096
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0379395418389517
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0169427822898573
-'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.011854152263178815
+'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0118541522631788
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,3.825625005926005e-07
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,2.263244265094212e-18
