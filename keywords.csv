@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1322117078603178
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.1318501831908111
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.1317514462635823
-'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.1302306465132501
+'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.12474370862717166
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.1236733703450316
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.118380778407903
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1120489178640392
