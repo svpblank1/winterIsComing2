@@ -9,10 +9,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.118380778407903
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1120489178640392
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.0971972471237365
-'Nässe',de,Wasser,#1a0ce8,#1a0ce8,2,0.091962085081426
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.0888928549075878
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.0873454380965329
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0833270412877494
+'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.0816186123192121
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,2,0.0749631072282048
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.0545626950368724
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.0457943901759371
