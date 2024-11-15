@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.2136571108684406
-'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.16338124549452548
+'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.1633812454945254
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1394824759832486
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.1317867762665515
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.1261283098030985
@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.118380778407903
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1170276043617574
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1120489178640392
-'Frost',de,Witterung,#64fafa,#64fafa,3,0.1012074436915396
+'Frost',de,Witterung,#64fafa,#64fafa,3,0.10916129531962683
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.0888928549075878
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.0873454380965329
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0833270412877494
