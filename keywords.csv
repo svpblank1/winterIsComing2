@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.2121430969721764
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1590014802119927
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.1445616690139478
-'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.1283053293739902
+'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.14128677224061892
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.1261283098030985
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.125964762125995
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.1250170934572526
