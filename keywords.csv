@@ -8,9 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.1342940280443954
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.1261283098030985
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.1250170934572526
-'Frost',de,Witterung,#64fafa,#64fafa,3,0.11985102668661213
+'Frost',de,Witterung,#64fafa,#64fafa,3,0.1198510266866121
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1155591337456893
-'Reif',de,Witterung,#64fafa,#64fafa,3,0.1120489178640392
+'Reif',de,Witterung,#64fafa,#64fafa,3,0.11383190382079696
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.1105851593994061
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0723404856649299
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0652491193497355
