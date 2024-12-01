@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1138319038207969
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.1105851593994061
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0723404856649299
-'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.060830419980183834
+'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0608304199801838
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.0457083082145191
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.0392257566495465
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0231685347788451
-'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,1.7444638980574662e-08
+'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,1.4827943133488462e-08
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,1.9770393541269144e-19
