@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.1869122225712996
 'Frieren',de,Mensch,#ff0000,#ff0000,3,0.1694880732042131
-'Frost',de,Witterung,#64fafa,#64fafa,3,0.16694901365042042
+'Frost',de,Witterung,#64fafa,#64fafa,3,0.15595157569376641
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1514564128011827
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1454851533799815
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.1412867722406189
