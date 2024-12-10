@@ -17,5 +17,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.0558533235656609
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.0457083082145191
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0180717229796353
-'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,7.740278990325562e-09
+'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,6.579237141776727e-09
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,1.0320268993502126e-19
