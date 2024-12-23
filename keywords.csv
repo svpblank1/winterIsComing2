@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1982738789022774
+'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.20530778888511764
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.1622450216560634
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.1541203451480192
-'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.14780805242123704
+'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.147808052421237
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1475663359637992
 'Frieren',de,Mensch,#ff0000,#ff0000,3,0.1433166003242498
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1395406100474722
