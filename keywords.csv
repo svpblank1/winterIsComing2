@@ -12,10 +12,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.1152865506029847
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.1105851593994061
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1083307742192525
-'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.09512799616226274
+'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.0951279961622627
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0758795998387082
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0582946271499684
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.0520856115563522
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0173837285317631
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,4.040474009693632e-09
-'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,4.5791581788459203e-20
+'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,3.892284452019032e-20
