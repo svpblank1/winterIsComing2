@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.19905913060377148
+'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.1990591306037714
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.1977675431863182
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.1818749115137771
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1703568985393626
@@ -16,6 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0946641257224855
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.02529185571403
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0218762937507605
-'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0184572271587016
+'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.017188793084896358
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,3.727744372263138e-12
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,9.521487966132617e-23
