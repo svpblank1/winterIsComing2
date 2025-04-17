@@ -1,18 +1,18 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.1528090090172844
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.1481410067369904
+'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.14651675523794272
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.1448660031926756
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1444029880583635
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.1420471508696602
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.141732031908108
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.1398814259924147
-'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.1397910029537294
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.139006802322652
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1380681374807602
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1266929791263926
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.1209160923078971
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.1140473915354493
-'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.11179221421356172
+'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.1117922142135617
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0866625899254047
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0557498706769144
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0482982573569255
