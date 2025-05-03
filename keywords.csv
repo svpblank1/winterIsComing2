@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1158220105890697
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.1035292484617125
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.1024804328937531
-'Frische',de,Witterung,#64fafa,#64fafa,3,0.0866625899254047
+'Frische',de,Witterung,#64fafa,#64fafa,3,0.07862301143659399
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0482982573569255
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0353935846431357
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0035241465092095
