@@ -3,13 +3,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.1507926648099549
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.1415684197065543
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.1392346747119632
-'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.1370797818728917
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1345157612128009
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.132982488635982
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.1313666592243845
+'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.130577848682867
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.1298372167538391
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1266929791263926
-'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.12193547049151193
+'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1219354704915119
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.1209630903274501
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.1035292484617125
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.0920592829596901
