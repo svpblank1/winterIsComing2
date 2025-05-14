@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.1172533512117696
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.1116619003407268
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.1035292484617125
-'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.0930095217330661
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.0858831462994871
+'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.08401092847310619
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0717897447211048
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0355780591903786
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0341258053272989
