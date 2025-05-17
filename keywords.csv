@@ -7,10 +7,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.1230919549966185
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1219354704915119
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.1209630903274501
-'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.12050491092589151
+'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.1205049109258915
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.1172533512117696
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.1035292484617125
-'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.0973128552896177
+'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.08511616699617504
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.0840109284731061
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0717897447211048
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,2,0.0662595304513794
