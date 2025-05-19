@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.0840109284731061
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0717897447211048
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,2,0.0662595304513794
-'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.031257159528204
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0305413803118218
-'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0021200328451332147
+'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.028668795598973403
+'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0021200328451332
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,2.3527070852327586e-13
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,1.1512002020255782e-23
