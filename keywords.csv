@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.0899988028385038
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.0891928026203927
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.0754544461963643
-'Frische',de,Witterung,#64fafa,#64fafa,3,0.0717897447211048
+'Frische',de,Witterung,#64fafa,#64fafa,3,0.07052678755839363
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,2,0.0662595304513794
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0383658277762079
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0230262710252912
