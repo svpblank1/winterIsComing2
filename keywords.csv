@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0689293321927596
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.0589837807739729
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,2,0.0585056250834203
-'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.024561273275842958
+'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.0245612732758429
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0142156079737859
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0005677081369102
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,1.0728214517980746e-14
-'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,2.0346464733862302e-26
+'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,1.7294495023782955e-26
