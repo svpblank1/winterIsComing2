@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.1257185455321258
-'Gas',de,Energie,#ff00ea,#ff00ea,3,0.12238370713296046
+'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1223837071329604
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.1136459935126006
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.1131787117160997
+'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.11182454870230693
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.105809463650592
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.1017302052095021
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.1010751614984525
