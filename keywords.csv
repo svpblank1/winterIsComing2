@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.1137527447883259
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.1132459974173048
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1120576333331546
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1071331541903522
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.1048362888627029
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.1033019848178359
+'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.101642773070077
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.0946697468110303
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.089560979346523
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.0889576697807447
@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.0683172249572708
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.0629334381327943
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.0490832596091953
-'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.032318212490293916
+'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0323182124902939
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.0229718514267476
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.0181581886501664
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,1.7952942164369082e-15
