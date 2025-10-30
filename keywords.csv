@@ -9,11 +9,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.09669759827512
 'Frieren',de,Mensch,#ff0000,#ff0000,3,0.0911121959205749
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.0908756807913104
-'Frische',de,Witterung,#64fafa,#64fafa,3,0.08408277830428292
+'Frische',de,Witterung,#64fafa,#64fafa,3,0.0840827783042829
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.0821994716571205
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.0814404233858253
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.0651823311437501
-'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.0529880717364419
+'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.048190175975975615
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0354524949088853
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0195262987127354
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0179588136332361
