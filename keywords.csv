@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.0909689962580853
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0790212526657534
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.0651823311437501
+'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.053785038444727706
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.0409619645795792
-'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.039805786405562
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0209948834590781
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0195262987127354
-'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,8.186442586804134e-17
+'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,8.186442586804133e-17
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,4.2306601246440454e-29
