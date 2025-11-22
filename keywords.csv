@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.159642416109264
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.1591884639675097
-'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.1304419626787761
+'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.13404845145877786
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1280593368305249
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.1254195480067761
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.122490316930909
@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.0956057906174205
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.0909689962580853
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0790212526657534
-'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.07853835965400577
+'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.0785383596540057
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0537850384447277
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.0409619645795792
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0209948834590781
