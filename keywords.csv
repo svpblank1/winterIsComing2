@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren',de,Mensch,#ff0000,#ff0000,3,0.0901395988698894
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.0785383596540057
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.0409619645795792
-'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.035882146847368346
-'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.0238996762991838
+'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0358821468473683
+'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.02496518985430623
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0195262987127354
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,5.914704768965985e-17
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,3.5960611059474385e-29
