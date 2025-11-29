@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.154431132758317
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.1537598131683944
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1396051551015605
-'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.1254195480067761
-'Reif',de,Witterung,#64fafa,#64fafa,3,0.11816084348218174
+'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.13883847807848695
+'Reif',de,Witterung,#64fafa,#64fafa,3,0.1181608434821817
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.117935476218638
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.113433526154878
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.1004643300011906
