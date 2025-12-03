@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1640580761233589
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.1616921051278013
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.1388384780784869
-'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.12410052495891903
+'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.124100524958919
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1181608434821817
-'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1097427693312968
+'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.10277896847705682
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.1004643300011906
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.0956057906174205
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0903119429477085
