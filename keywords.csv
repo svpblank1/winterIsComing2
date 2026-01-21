@@ -3,19 +3,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.2500064051664792
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.2386369533825258
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.2102246366508021
+'Frost',de,Witterung,#64fafa,#64fafa,3,0.16995282121746208
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.1645964655346615
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.1510844361628817
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1499514288348838
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.1484977822780248
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1402778540901195
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.1382112978426372
-'Frost',de,Witterung,#64fafa,#64fafa,3,0.1299319313788324
 'Frieren',de,Mensch,#ff0000,#ff0000,3,0.1292902600491526
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,3,0.1260056161544748
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.1135531768020616
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.1108617807783471
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1104965513873164
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0508914050246046
-'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.04122781837800748
+'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.0412278183780074
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,1.6117010079465878e-17
-'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,1.92915767775478e-30
+'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,1.9291576777547797e-30
