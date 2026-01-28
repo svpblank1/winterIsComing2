@@ -10,12 +10,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1499514288348838
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.1484977822780248
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1423848391584197
+'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.1347619973268087
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.1167723191685781
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.1135531768020616
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.1108617807783471
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1104965513873164
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.1071052087313035
-'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.099242966908545
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.0656115897709624
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,1.3699458567545997e-17
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,1.3938164221778285e-30
