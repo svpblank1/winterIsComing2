@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.1376803709096055
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1352384650428553
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1259952932846567
-'Frische',de,Witterung,#64fafa,#64fafa,3,0.1108617807783471
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.1071052087313035
+'Frische',de,Witterung,#64fafa,#64fafa,3,0.10373081366159503
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.0656115897709624
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,1.3699458567545997e-17
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,1.1847439588511542e-30
