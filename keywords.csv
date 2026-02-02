@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.1408297293720248
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1380871684682451
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1259952932846567
-'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.122441447823099
+'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.10902602564963414
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.1071052087313035
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.103730813661595
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.0519128448595203
