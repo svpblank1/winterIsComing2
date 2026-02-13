@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1352241026481644
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1205208005592161
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.1071052087313035
-'Frische',de,Witterung,#64fafa,#64fafa,3,0.0929833116123557
+'Frische',de,Witterung,#64fafa,#64fafa,3,0.08399824987050235
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.0784982425391856
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.0421655294110033
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,5.16674416307473e-18
