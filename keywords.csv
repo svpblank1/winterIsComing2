@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1352241026481644
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1205208005592161
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0839982498705023
-'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.0784982425391856
+'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.06672388115830775
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0358410149993528
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,3.173026759148268e-18
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,7.2758088372946496e-31
