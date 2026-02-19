@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.1510844361628817
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1352241026481644
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1205208005592161
-'Frische',de,Witterung,#64fafa,#64fafa,3,0.0839982498705023
-'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.06646567398456155
+'Frische',de,Witterung,#64fafa,#64fafa,3,0.08545170648083605
+'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.0664656739845615
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0358410149993528
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,2.697072745276028e-18
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,7.2758088372946496e-31
