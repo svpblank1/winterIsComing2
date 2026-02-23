@@ -5,15 +5,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.2132218244445879
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.2092880563576618
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.2081006684554912
+'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.20578109131082195
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.1855211938492383
 'Frieren',de,Mensch,#ff0000,#ff0000,3,0.1797394287867767
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,2,0.1737366485659424
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1661052989309502
-'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.1613902266758333
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.1578260720595092
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.1510844361628817
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1352241026481644
-'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.11989194385479215
+'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1198919438547921
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.085451706480836
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.0454910580029033
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0358410149993528
