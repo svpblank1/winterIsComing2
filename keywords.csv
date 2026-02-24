@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.215922259978133
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.2132218244445879
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.2092880563576618
-'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.2081006684554912
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.2057810913108219
+'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.20002334136898567
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.1855211938492383
 'Frieren',de,Mensch,#ff0000,#ff0000,3,0.1797394287867767
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,2,0.1737366485659424
