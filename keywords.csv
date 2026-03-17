@@ -6,10 +6,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.2071438998869259
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.2031593890776992
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.2017414488921789
-'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.2006287551061397
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.1982804545668264
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.1981410092887465
 'Frieren',de,Mensch,#ff0000,#ff0000,3,0.1895132837757189
+'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.17473963184021873
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,3,0.170367972377682
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.1670635061766317
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,2,0.1422476508388933
