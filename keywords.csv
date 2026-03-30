@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.1719172052580709
 'Frieren',de,Mensch,#ff0000,#ff0000,3,0.1686282805734114
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.1481760939159745
-'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.1448130615210296
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,2,0.1422476508388933
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1250421904583914
+'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.12309138729287517
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0911289726914069
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,2,0.037248516024657
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.0263295832047923
