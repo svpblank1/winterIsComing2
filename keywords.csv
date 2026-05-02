@@ -9,11 +9,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1450583138107415
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1370034961061877
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.1362480067661368
-'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.1295485686200708
+'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.11961793287251472
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.1175013238091754
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.1090024176070577
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.1070985273492404
-'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.10637073459643526
+'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.1063707345964352
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0960599254240595
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0436657403145288
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0209245933971044
