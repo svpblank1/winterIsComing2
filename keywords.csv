@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.1066320079416374
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0861592301487777
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0771303834959244
-'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.040900929422395434
+'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0409009294223954
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.0201521449435975
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,2.8485416925758233e-20
-'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,2.093932153156956e-33
+'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,1.7798423301834126e-33
