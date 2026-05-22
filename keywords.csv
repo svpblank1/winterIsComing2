@@ -16,6 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0861592301487777
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0771303834959244
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0409009294223954
-'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.017129818202057872
-'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,2.4212604386894492e-20
+'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.019510855471749126
+'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,2.4212604386894486e-20
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,1.7798423301834126e-33
