@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gas',de,Energie,#ff00ea,#ff00ea,3,0.16404380304653615
+'Gas',de,Energie,#ff00ea,#ff00ea,3,0.1640438030465361
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.1516384817526592
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1441912927324324
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.1264461396851714
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.1256778055160385
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.123175364177273
-'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.121100118641266
+'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.12152300948143974
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.1206256278748677
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.1202304849710991
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.1178115852038611
