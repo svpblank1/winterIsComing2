@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.1136249283369032
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.1051110574232819
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0861592301487777
-'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.036866000009036
+'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0338863550076806
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.0247174986915878
-'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,1.2639130818736341e-20
+'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,1.263913081873634e-20
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,9.290888203703052e-34
