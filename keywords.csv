@@ -10,12 +10,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.1151426967503918
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.1136249283369032
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.109502614550682
-'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.10824644805922373
+'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1082464480592237
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.1074872286936375
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.1069992192968097
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.1051110574232819
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0861592301487777
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0338863550076806
-'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.0216104288878496
+'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.027864889100126706
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,9.131772016537003e-21
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,9.290888203703052e-34
