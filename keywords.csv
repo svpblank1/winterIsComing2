@@ -16,6 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0873251121560271
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.0831592827524006
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0230149071697137
-'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.02004596506861519
+'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0200459650686151
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,4.766842066207418e-21
-'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,4.122416453826627e-34
+'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,3.504053985752633e-34
