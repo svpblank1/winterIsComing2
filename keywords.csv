@@ -1,21 +1,21 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.1221839204457331
-'Reif',de,Witterung,#64fafa,#64fafa,3,0.1203508945776085
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.1198389749907181
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.1190453171168646
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.1134787459810074
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.1124967219916077
+'Reif',de,Witterung,#64fafa,#64fafa,3,0.11179807993642177
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.1105977794867038
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.109502614550682
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1044066081586713
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0989092703258053
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.0984277800361525
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.0951497714022882
-'Frische',de,Witterung,#64fafa,#64fafa,3,0.09310429533262304
+'Frische',de,Witterung,#64fafa,#64fafa,3,0.093104295332623
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.090752829641619
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.0902012173698599
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.0831592827524006
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0227714335120743
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0217737849301181
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,4.766842066207418e-21
-'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,3.504053985752633e-34
+'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,3.5040539857526333e-34
