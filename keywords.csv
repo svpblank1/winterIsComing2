@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.090752829641619
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.0902012173698599
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0843729097769345
-'Frische',de,Witterung,#64fafa,#64fafa,3,0.08410393603272955
+'Frische',de,Witterung,#64fafa,#64fafa,3,0.0841039360327295
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.0831592827524006
-'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.0240061834852631
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0217737849301181
+'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.021005810962473635
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,4.766842066207418e-21
-'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,3.5040539857526333e-34
+'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,3.504053985752633e-34
