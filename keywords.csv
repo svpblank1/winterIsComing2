@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.1113459257580023
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.1096443968492776
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.1084839112703678
-'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.1037905782628677
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.0998206579461991
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.0982147922165324
+'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.09772752652343754
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.0951497714022882
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.0878069464999991
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.07645444062782
