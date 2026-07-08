@@ -5,11 +5,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1057799505470022
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.1041121000253001
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.1028561115194203
-'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.09898521098374978
+'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.0989852109837497
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.0977275265234375
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.0951497714022882
+'Frost',de,Witterung,#64fafa,#64fafa,3,0.09375738026280826
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.0898135942542692
-'Frost',de,Witterung,#64fafa,#64fafa,3,0.0884344783840525
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.0878069464999991
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.07645444062782
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.0759579989615242
