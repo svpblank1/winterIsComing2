@@ -18,4 +18,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.0276193446257116
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0160107987058315
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,1.5281403498813506e-21
-'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,5.863797600393662e-35
+'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,4.984227960334613e-35
