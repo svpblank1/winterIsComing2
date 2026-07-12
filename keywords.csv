@@ -16,6 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0717169733103943
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,2,0.0546802720895997
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.0276193446257116
-'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0160107987058315
+'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.015559373899956775
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,1.5281403498813506e-21
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,4.984227960334613e-35
