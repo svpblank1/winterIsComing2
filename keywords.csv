@@ -10,12 +10,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.0948433675345421
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.0898135942542692
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.0846456032233869
-'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.07763719452499923
+'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.0776371945249992
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.07645444062782
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.0759579989615242
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0717169733103943
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,2,0.0546802720895997
-'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.0266912957420765
+'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.027638381380765024
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0155593738999567
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,1.298919297399148e-21
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,4.984227960334613e-35
