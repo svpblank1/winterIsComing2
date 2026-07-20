@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.0918383291710291
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.0905367463762425
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.0898135942542692
+'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.0891247835280675
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.0879024301133375
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0790430986245561
-'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.0776371945249992
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,2,0.0546802720895997
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.0205720479544222
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0148756328149631
