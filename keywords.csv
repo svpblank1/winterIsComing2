@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1475944203748961
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.1355000128188679
-'Winterkleidung',de,Mensch,#ff0000,#ff0000,2,0.1272430559667598
+'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.10815662757174582
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1057799505470022
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.1049584364591447
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.1017245574360136
