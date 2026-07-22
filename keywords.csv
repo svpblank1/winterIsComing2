@@ -11,11 +11,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.0905367463762425
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.0898135942542692
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.0879024301133375
-'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.08756154434082927
+'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.0875615443408292
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.0852528555443119
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0790430986245561
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,2,0.0546802720895997
-'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.0205720479544222
+'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.018836870761258867
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0148756328149631
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,1.1040814027892758e-21
 'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,4.2365937662844206e-35
