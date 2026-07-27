@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1083279995171776
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.103928555715782
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1037370629609501
-'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.1017245574360136
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.0977275265234375
+'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.09597360882061155
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0922331634359839
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.0906457467482521
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.0905367463762425
