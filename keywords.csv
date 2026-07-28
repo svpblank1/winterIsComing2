@@ -2,15 +2,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.128720160990273
 'Eis',de,Wasser,#1a0ce8,#1a0ce8,3,0.103928555715782
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.1037370629609501
-'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.10157064958960095
+'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1015706495896009
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,2,0.0987999929492643
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.0977275265234375
-'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.0959736088206115
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0922331634359839
 'Dunkelheit',de,Zeit,#f1fc17,#f1fc17,3,0.0906457467482521
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.0905367463762425
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.0898135942542692
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.0879024301133375
+'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.08654733749751976
 'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.0792308076897048
 'Frische',de,Witterung,#64fafa,#64fafa,3,0.0790430986245561
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.0704775828807653
