@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#ff00ea,#ff00ea,3,0.0898135942542692
 'Frieren',de,Mensch,#ff0000,#ff0000,2,0.0879024301133375
 'Winter',de,Zeit,#f1fc17,#f1fc17,3,0.0865473374975197
-'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.08398033900687464
-'Frische',de,Witterung,#64fafa,#64fafa,3,0.0790430986245561
+'Frische',de,Witterung,#64fafa,#64fafa,3,0.08578693246723632
+'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.0839803390068746
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.0704775828807653
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,2,0.0459653285847357
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.0152532191250094
