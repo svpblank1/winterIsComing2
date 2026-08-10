@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.1159978975449218
-'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.1148078391756408
-'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.11063435431169921
+'Kälte',de,Temperatur,#ff8800,#ff8800,3,0.11163213239020377
+'Schnee',de,Wasser,#1a0ce8,#1a0ce8,3,0.1106343543116992
 'Heizung',de,Energie,#ff00ea,#ff00ea,3,0.1047958884720395
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.0991188243022897
 'Reif',de,Witterung,#64fafa,#64fafa,3,0.0931292335168075
