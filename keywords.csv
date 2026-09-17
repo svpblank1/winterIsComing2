@@ -11,10 +11,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Energie,#ff00ea,#ff00ea,3,0.0845518773268828
 'Frost',de,Witterung,#64fafa,#64fafa,3,0.0844427942423617
 'Handschuhe',de,Mensch,#ff0000,#ff0000,3,0.0783944531139467
-'Frieren',de,Mensch,#ff0000,#ff0000,2,0.0685570932691335
+'Frieren',de,Mensch,#ff0000,#ff0000,2,0.07686068791512712
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.0524239230207389
 'Gefrieren',de,Temperatur,#ff8800,#ff8800,1,0.0500634479871769
-'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.042394962277289165
+'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0423949622772891
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,2,0.0272642516122746
 'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0127358965257477
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,8.1979243450141e-23
