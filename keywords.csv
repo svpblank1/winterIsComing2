@@ -16,6 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nässe',de,Wasser,#1a0ce8,#1a0ce8,3,0.0524239230207389
 'Winterkleidung',de,Mensch,#ff0000,#ff0000,1,0.0423949622772891
 'geringe Temperatur',de,Temperatur,#ff8800,#ff8800,1,0.0231750338704334
-'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.013087073739852675
+'Temperatur unter Null',de,Temperatur,#ff8800,#ff8800,1,0.0130870737398526
 'Kältesaison',de,Zeit,#f1fc17,#f1fc17,1,5.034550288381784e-23
-'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,4.353933412976545e-36
+'Kältesaision',de,Zeit,#f1fc17,#f1fc17,1,3.7008434010300634e-36
